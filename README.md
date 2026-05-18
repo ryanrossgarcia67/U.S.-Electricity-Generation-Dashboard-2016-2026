@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project is an interactive Tableau dashboard focused on U.S. monthly net electricity generation trends from 2016–2026. The dashboard analyzes how different energy sources contribute to overall electricity production and highlights changes in the American energy mix over time.
+This project is an interactive Tableau dashboard focused on U.S. monthly net electricity generation trends from 2016–2026. The dashboard analyzes how different energy sources contribute to overall electricity production and highlights changes in the American energy mix over time
+
+https://public.tableau.com/app/profile/ryan.garcia4428/viz/U_S_MonthlyNetElectricityGenerationbyEnergySource2016-20261/Dashboard1?publish=yes
 
 The project was created to strengthen skills in:
 - Data analytics
