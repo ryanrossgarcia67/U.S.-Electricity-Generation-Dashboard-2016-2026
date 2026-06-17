@@ -105,8 +105,9 @@ U.S.-Electricity-Generation-Dashboard/
 
 ## Author
 
-Self-employed Data Analytics Projects  
+Dayatlov Concern Data Analytics Projects -Ryan Garcia
 Focused on dashboard development, visualization, and analytical reporting.
+
 
 ---
 
