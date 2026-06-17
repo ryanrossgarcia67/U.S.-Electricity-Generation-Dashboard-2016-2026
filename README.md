@@ -99,7 +99,7 @@ U.S.-Electricity-Generation-Dashboard/
 
 ## Preview
 
-!(images/dashboard-preview.png)
+![U.S.-Electricity-Generation-Dashboard-2016-2026](images/dashboard-preview.png)
 
 ---
 
