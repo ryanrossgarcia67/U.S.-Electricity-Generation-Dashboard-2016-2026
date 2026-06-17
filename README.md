@@ -99,7 +99,7 @@ U.S.-Electricity-Generation-Dashboard/
 
 ## Preview
 
-Dashboard preview images will be added as development progresses.
+!(images/dashboard-preview.png)
 
 ---
 
